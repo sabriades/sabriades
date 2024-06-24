@@ -19,6 +19,10 @@ I'm *Sabrina Anna Desiderio*. I have a Bachelor's Degree in Mechanical Engineeri
   <img src="https://camo.githubusercontent.com/2c29ff7ea413e3999d1959480f5aa128bb5c0769ac41bb95ac15ef66196d1a38/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6373686172702f6373686172702d6f726967696e616c2e737667" alt="C#" height="100" width="100" />
 <img src="https://camo.githubusercontent.com/67af3f7e88aa4d5c4d525689311143b62f0750eaff5832a9505df20312e8eed6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f63706c7573706c75732f63706c7573706c75732d6f726967696e616c2e737667" alt="C++" height="100" width="100" />
   <img src="https://camo.githubusercontent.com/661dca6d7c2385beb53e6ca99e8cf3448814b4dfa42e457569ea58557e4373ab/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f78636f64652f78636f64652d6f726967696e616c2e737667" alt="xCode" height="100" width="100" />
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/Procreate-icon.png" alt="Procreate" height="100" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Photoshop" height="100" width="100" />
+   <img src="https://camo.githubusercontent.com/5d2763daad218aa28dcf17e32e9d1a95a8af786e07c5e23bd2db416896b0c226/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f313630302f312a365867664443566e3831415958363858766432492d674032782e706e67" alt="Figma" height="100" width="100" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Aseprite.svg/1920px-Logo_Aseprite.svg.png" alt="Aseprite" height="100" width="100" />
 </p>
 
 ## Contacts
