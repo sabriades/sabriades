@@ -24,7 +24,7 @@ Reach out to me:
 -DISCORD: sabriades
 
 
-## What's happaning right now?
+## What's happening right now?
 *WIP*: currently working on my MATLAB repository
 
 *COMING SOON*: Solidworks repository
