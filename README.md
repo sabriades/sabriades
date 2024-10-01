@@ -27,6 +27,8 @@ Reach out to me:
 ## What's happening right now?
 *WIP*: currently working on my MATLAB repository
 
+*WIP*: currently working on my Python repository
+
 *COMING SOON*: Solidworks repository
 
 
