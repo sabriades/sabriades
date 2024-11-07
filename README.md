@@ -29,7 +29,7 @@ Reach out to me:
 
 *WIP*: currently working on my Python repository
 
-*COMING SOON*: Solidworks repository
+*WIP*: Solidworks repository
 
 
 
