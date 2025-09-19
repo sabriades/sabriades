@@ -2,6 +2,8 @@
 
 I'm *Sabrina Anna Desiderio*. I have a Bachelor's Degree in Mechanical Engineering and I'm about to get my Master's in Mechanical Engineering for Design and Production. I'm also an Alumni from Apple Developer Academy. I've created and contributed to several apps and games you can find on the App Store. 
 
+UPLOAD: since my Apple Developer membership expired, certain links won't work.  
+
 [DEMO of "Back to Bones" - Adventure Puzzle 2.5D Game for MacOS](https://apps.apple.com/it/app/back-to-bones/id6504024948?l=en-GB&mt=12), project developed by *BackBones Studios* 
 
 ["NECROMANIA - endless runner" for iOS](https://apps.apple.com/it/app/necromania-endless-runner/id6504692807?l=en-GB), project fully developed and designed by me in just two weeks!
