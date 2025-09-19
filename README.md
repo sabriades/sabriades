@@ -2,15 +2,13 @@
 
 I'm *Sabrina Anna Desiderio*. I have a Bachelor's Degree in Mechanical Engineering and I'm about to get my Master's in Mechanical Engineering for Design and Production. I'm also an Alumni from Apple Developer Academy. I've created and contributed to several apps and games you can find on the App Store. 
 
-UPLOAD: since my Apple Developer membership expired, certain links won't work.  
-
 [DEMO of "Back to Bones" - Adventure Puzzle 2.5D Game for MacOS](https://apps.apple.com/it/app/back-to-bones/id6504024948?l=en-GB&mt=12), project developed by *BackBones Studios* 
 
-["NECROMANIA - endless runner" for iOS](https://apps.apple.com/it/app/necromania-endless-runner/id6504692807?l=en-GB), project fully developed and designed by me in just two weeks!
+["NECROMANIA - endless runner" for iOS], project fully developed and designed by me in just two weeks!
 
-["Elena - Daily Self Care" for iOS](https://apps.apple.com/it/app/elena-daily-self-care/id6478217697?l=en-GB), project developed in a team of five people. Role: App Artist, App Developer.
+["Elena - Daily Self Care" for iOS], project developed in a team of five people. Role: App Artist, App Developer.
 
-["Space Lover" - endless runner 2D game (in Pixel Art) for iOS](https://apps.apple.com/it/app/space-lover/id6502843568), project developed in a team of four people. Role: Game Artist.
+["Space Lover" - endless runner 2D game (in Pixel Art) for iOS], project developed in a team of four people. Role: Game Artist.
 
 ["iBreathe - Relax and Breathe (app copy)](https://github.com/sabriades/iBreatheRepo), THIS IS NOT AN ORIGINAL PROJECT! THIS IS JUST A COPY FOR LEARNING PURPOSES.  
 
