@@ -1,6 +1,6 @@
 ## Hello! 👋 Welcome to my Git
 
-I'm *Sabrina Anna Desiderio*. I have a Bachelor's Degree in Mechanical Engineering and I'm about to get my Master's in Mechanical Engineering for Design and Production. I'm also an Alumna of the Apple Developer Academy. I've created and contributed to several apps and games you can find on the App Store. 
+I'm *Sabrina Anna Desiderio*. I hold a Master's degree in Mechanical Engineering for Design and Production, and I’m an alumna of the Apple Developer Academy. I have created and contributed to several apps and games, listed below.
 
 [DEMO of "Back to Bones" - Adventure Puzzle 2.5D Game for MacOS](https://apps.apple.com/it/app/back-to-bones/id6504024948?l=en-GB&mt=12), project developed by *BackBones Studios* 
 
@@ -26,9 +26,7 @@ Reach out to me:
 
 ## What's happening right now?
 
-*WIP*: currently working on my Python repository
-
-*WIP*: currently working on my ML&dataset repository
+*WIP*: AI chatbot project (soon)
 
 
 
