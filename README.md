@@ -26,7 +26,7 @@ Reach out to me:
 
 ## What's happening right now?
 
-*WIP*: AI chatbot project (soon)
+*WIP*: Project Ops (private)
 
 
 
