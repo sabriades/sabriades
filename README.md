@@ -8,9 +8,9 @@ I'm *Sabrina Anna Desiderio*. I hold a Master's degree in Mechanical Engineering
 
 ["Elena - Daily Self Care" for iOS], project developed in a team of five people. Role: App Artist, App Developer.
 
-["Space Lover" - endless runner 2D game (in Pixel Art) for iOS], project developed in a team of four people. Role: Game Artist.
+["Space Lover - endless runner 2D game" (in Pixel Art) for iOS], project developed in a team of four people. Role: Game Artist.
 
-["iBreathe - Relax and Breathe (app copy)](https://github.com/sabriades/iBreatheRepo), THIS IS NOT AN ORIGINAL PROJECT! THIS IS JUST A COPY FOR LEARNING PURPOSES.  
+["iBreathe - Relax and Breathe" (app copy)](https://github.com/sabriades/iBreatheRepo), THIS IS NOT AN ORIGINAL PROJECT! THIS IS JUST A COPY FOR LEARNING PURPOSES.  
 
 
 
